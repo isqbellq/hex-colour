@@ -5,7 +5,10 @@ html, body {
 	width: 100%;
 	overflow-x: hidden;
 }
-
+*:focus { 
+	outline: transparent !important; 
+	box-shadow: none !important;
+}
 .header {
 	text-align: center;
 	padding: 45px;
