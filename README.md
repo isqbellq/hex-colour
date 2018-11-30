@@ -1,1 +1,1 @@
-Random hex colour generator
+# Random hex colour generator
