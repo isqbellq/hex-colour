@@ -111,9 +111,12 @@ footer {
 
 @media (max-width: 576px) {
 	.header {
-		padding: 30px;
+		padding: 40px;
 	}
 	h1 {
 		font-size: 40px;
+	}
+	.content {
+			padding: 17% 0;
 	}
 }
