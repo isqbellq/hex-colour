@@ -27,7 +27,7 @@ html, body {
 	background-image: url("img1.jpg");
 }
 h1 {
-	font-size: 40px;
+	font-size: 45px;
 }
 body {
 /*	background-color: #e3e3e3;
@@ -112,5 +112,8 @@ footer {
 @media (max-width: 576px) {
 	.header {
 		padding: 30px;
+	}
+	h1 {
+		font-size: 40px;
 	}
 }
