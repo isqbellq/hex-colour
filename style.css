@@ -9,7 +9,6 @@ html, body {
 	overflow-x: hidden;
 	font-family: 'Maven Pro', sans-serif;
 	font-size: 18px;
-	overflow-y: hidden;
 }
 *:focus { 
 	outline: transparent !important; 
